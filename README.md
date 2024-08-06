@@ -19,7 +19,7 @@ For the third Project of the Lede Program 2024 I looked into the history of Club
 
 ## Website
 
-[This](https://ljmirani.github.io/women-in-the-met/) is the website that I created for this project.
+[This] [(https://ljmirani.github.io/berlin-clubhistory/)] is the website that I created for this project.
 
 ## What I learned
 * Making Maps
